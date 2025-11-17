@@ -1,6 +1,6 @@
 # Olá! Eu sou Flávio
 
-Minha foto: ../img/Foto.jpg (Professor do Elevar)
+![minha foto](avatar.png)
 
 ### Sou uma pessoa comunicativa, que gosta de ler, jogar xadrez e valoriza um ambiente leve e colaborativo.
 
@@ -15,35 +15,33 @@ Minha foto: ../img/Foto.jpg (Professor do Elevar)
 
 ### O que gosto de fazer
 
-- [ler livros]
-- [jogar bola]
-- [jogar cadrez]
-- [andar de bicicleta]
-- [conversar]
+- Ler livros
+- Jogar bola
+- Jogar cadrez
+- Andar de bike
+- Conversar
 
 
 
 
 ## Meus objetivos
 
-- [ter boas notas]
-- [começar a trabalhar]
-- [ler mais 3 livros até o final do ano]
-- [terminar meus cursos]
+- Ter boas notas
+- Começar a trabalhar
+- Ler mais 3 livros até o final do ano
+- Terminar meus cursos
 
 
-## Markdown e documentação digital
-- [Vamos fazer um link com nosso primeiro artigo] 
+## Markdown e documentação digital 
 - “Como usar o GitHub para criar e compartilhar ideias”
 - “Conceitos de cidadania e segurança online”
 “Conceitos de segurança da informação”
 
 
-(essas linhas podem ser adaptadas a qualquer fase do curso)
 
 ### Uma frase que me representa
 
-[erra é humano, persintir no erro é tolice]
+"Errar é humano, persintir no erro é diabolico" - Santo Agostinho
 
 ### Um pouco da minha identidade digital
 
@@ -55,4 +53,4 @@ Minha foto: ../img/Foto.jpg (Professor do Elevar)
 
 - Opcional — somente se for autorizado pelo facilitador:
 - E-mail de contato: [opcional]
-- Me encontre no GitHub como [@usuario](https://github.com/usuario)
+- Me encontre no GitHub como [@Flavio Petrini](https://github.com/flaviocostapetrini-design)
