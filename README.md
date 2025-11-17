@@ -5,33 +5,31 @@ Minha foto: ../img/Foto.jpg (Professor do Elevar)
 ### Sou uma pessoa comunicativa, que gosta de ler, jogar xadrez e valoriza um ambiente leve e colaborativo.
 
 ### sobre mim:
-***Idade: 13***
-***Cidade: Sorocaba***
-***Personalidade: Uma pessoa curiosa, analítica e empática, que combina raciocínio lógico com habilidades interpessoais. Adora aprender, trocar ideias e transformar ambientes em espaços mais leves, produtivos e colaborativos.***
-***Interesses: gosto de li***
-***O que me motiva:***
+- ***Idade: 13***
+- ***Cidade: Sorocaba***
+- ***Personalidade: Uma pessoa curiosa, analítica e empática, que combina raciocínio lógico com habilidades interpessoais. Adoro aprender, trocar ideias e transformar ambientes em espaços mais leves, produtivos e colaborativos.***
+- ***Interesses: gosto de ler civros, jogar xadrex***
+- ***O que me motiva:***
 
 
 
 ### O que gosto de fazer
 
-- [1ª coisa]
-- [2ª coisa]
-- [3ª coisa]
-- [4ª coisa]
-- [5ª coisa]
+- [ler livros]
+- [jogar bola]
+- [jogar cadrez]
+- [andar de bicicleta]
+- [conversar]
 
 
-(Edite essa lista livremente — o objetivo é expressar rotina e interesses reais)
+
 
 ## Meus objetivos
 
-[Descreva um objetivo válido]
-
-- [Liste 4 objetivos]
-- [Liste 4 objetivos]
-- [Liste 4 objetivos]
-- [Liste 4 objetivos]
+- [ter boas notas]
+- [começar a trabalhar]
+- [ler mais 3 livros até o final do ano]
+- [terminar meus cursos]
 
 
 ## Markdown e documentação digital
@@ -45,7 +43,7 @@ Minha foto: ../img/Foto.jpg (Professor do Elevar)
 
 ### Uma frase que me representa
 
-[Escolha uma frase e faça uma citação]
+[erra é humano, persintir no erro é tolice]
 
 ### Um pouco da minha identidade digital
 
